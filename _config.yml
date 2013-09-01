@@ -9,10 +9,10 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
+title : Wanjun Blog
 tagline: Site Tagline
 author :
-  name : jojo
+  name : Wanjun
   email : cssdong@gemail.com
   github : dwjdwj456
   twitter : cssdong
@@ -83,7 +83,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : dwjdwj456
     livefyre :
       site_id : 123
     intensedebate :
