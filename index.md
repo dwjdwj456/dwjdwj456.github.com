@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 最新文章
+title: New Post
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
