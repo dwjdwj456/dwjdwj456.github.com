@@ -1,6 +1,6 @@
 ---
-layout: default
-title: New Post
+layout: page
+title: 首页
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
