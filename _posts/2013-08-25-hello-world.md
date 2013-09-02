@@ -1,14 +1,12 @@
 ---
 layout: post
-title: "Hello World"
+category : 用户体验
+title: "关于医院抽血想到的两三事"
 description: ""
-category: 
 tags: [医院]
 ---
 {% include JB/setup %}
 
-## 由医院想到的两三事
-This Jekyll introduction will outline specifically  what Jekyll is and why you would want to use it.
-Directly following the intro we'll learn exactly _how_ Jekyll does what it does.
+今天到医院体检，看到这样一个现象，由于天气变化，很多小孩子都要抽血化验。方法大都与成人一样，结果可想而知。鬼哭狼嚎的；打滚撒泼的；家长连哄带骗；护士左右帮忙，好不热闹。最终在一片混乱当中结束了规定动作。
 
  
